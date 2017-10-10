@@ -1,4 +1,5 @@
 import { Component } from '@angular/core';
+import {ExoComponent} from './exo/exo.component';/*importer le fichier exo*/
 
 @Component({
   selector: 'app-root',
